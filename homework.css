@@ -1,0 +1,109 @@
+body{
+    font-size: 24px;
+}
+
+.border{
+    border: 1px solid salmon;
+}
+
+#top-bar{
+    position:relative;
+    height: 20px
+}
+
+#top-bar #featured{
+    position:absolute;
+    left: 0;
+    top: 0;
+    background: pink;
+}
+
+#top-bar #how-to{
+    position:absolute;
+    left: 100px;
+    top: 0;
+    background: pink;
+}
+
+#top-bar #expert{
+    position:absolute;
+    left: 200px;
+    top: 0;
+    background: pink;
+}
+
+#top-bar #subscribe{
+    position:absolute;
+    right: 0;
+    top: 0;
+    background: pink;
+}
+
+#top-bar #contact{
+    position:absolute;
+    right: 120px;
+    top: 0;
+    background: pink;
+}
+
+#top-bar #logo{
+    position:absolute;
+    left:50%;
+    top: 0;
+    background: pink;
+}
+
+#writing #word{
+    position:absolute;
+    left: 0px;
+    top: 30%;
+    height: 30%;
+    width: 40%;
+    border: 2px solid blue;
+}
+
+#writing #paragraph{
+    position:absolute;
+    left: 0px;
+    top: 60%;
+    height: 25%;
+    width: 40%;
+    border: 2px solid blue;
+}
+
+#writing #photo{
+    position:absolute;
+    right: 0px;
+    top: 10%;
+    height: 90%;
+    width: 50%;
+    border: 2px solid blue;
+}
+
+#writing #fea{
+    position:absolute;
+    left: 0px;
+    top: 25%;
+    height: 5%;
+    width: 10%;
+    border: 2px solid blue;
+}
+
+#writing #arrow{
+    position:absolute;
+    left: 0px;
+    top: 14%;
+    height: 5%;
+    width: 10%;
+    border: 2px solid blue;
+}
+
+#writing #read{
+    position:absolute;
+    left: 0px;
+    top: 90%;
+    height: 5%;
+    width: 15%;
+    border: 2px solid blue;
+}
+
