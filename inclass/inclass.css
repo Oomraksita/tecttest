@@ -1,0 +1,82 @@
+body{
+    font-size: 24px;
+}
+
+.left{
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+}
+
+.featured{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    padding-left:0px ;
+}
+
+.how-to{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    padding-left:25px ;
+}
+
+.expert{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    padding-left:40px ;
+}
+
+.logo{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.right{
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+}
+
+.contact{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    margin-right: 8px;
+    padding-right:8px ;
+}
+
+.subscribe{
+    color:black ;
+    display: flex;
+    flex-direction: row;
+    border: 2px blue;
+    margin-right: 30px;
+    padding-right:30px ;
+}
+
+
+
+.flex {
+    background: rgb(255, 255, 238);
+    border: 1px solid salmon;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
